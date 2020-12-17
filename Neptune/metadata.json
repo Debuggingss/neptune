@@ -1,0 +1,7 @@
+{
+    "name":"Neptune",
+    "description":"Cheat Module. 15+ Modules.",
+    "author": "Debuggings",
+    "requires": ["SettingsManager"],
+    "entry": "client.js"
+} 
