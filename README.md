@@ -12,6 +12,8 @@ If you find some spaghetti code and would like to improve it, feel free to make 
 
 To open the GUI, press Right-CTRL, can be changed in the Keybinds menu.
 
+There are also commands. Do ".help" to view them.
+
 To set keybinds you have to use the default Minecraft keybind manager, might improve this myself one day.
 
 This is more of a "proof of concept", not made to bypass cheat detection systems.
