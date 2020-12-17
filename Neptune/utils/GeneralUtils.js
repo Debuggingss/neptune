@@ -12,6 +12,9 @@ const getClosest = (range) => {
     let dist = range;
     let target = null;
     World.getAllPlayers().forEach(player => {
+	/* Dead Check removed because it doesn't work on some servers.
+	Feel free to add a toggle to this */
+	    
         //if(player.getEntity().field_70128_L) return;
         //if(player.getEntity().func_70089_S()) return;
         if(!player.getEntity() instanceof EntityOtherPlayerMP) return;
