@@ -1,4 +1,7 @@
 # neptune
+
+**Note: I archived it because there is no way I am updating it ever again. The code is a huge mess and would require a complete rewrite.**
+
 A hacked "client" made entirely in ChatTriggers.
 
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
